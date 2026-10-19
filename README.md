@@ -89,3 +89,10 @@ All jobs use `--partition=gpu-h100 --account=gts-ur2`.
 Experiments output to `experiments/`:
 - `baseline/` — co-activation stats, perplexity
 - `pruning/` — sensitivity results, contribution metrics, ablation, domain generalization
+---
+
+
+## Contributors
+
+- Jiahao Chen
+- Jane Yijun Sun
